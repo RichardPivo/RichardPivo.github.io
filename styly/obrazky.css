@@ -1,0 +1,59 @@
+/*______Ochrana_________*/
+
+.obr1{
+    width: 550px;
+    height: auto;
+    padding-bottom: 35px;
+}
+
+.obr2{
+    width: 600px;
+    height: auto;
+    padding-bottom: 35px;
+}
+
+.obr3{
+    width: 600px;
+    height: auto;
+    padding-bottom: 35px;
+}
+
+.obr4{
+    width: auto;
+    height: 550px;
+    padding-bottom: 35px;
+    opacity: 0.8;
+}
+
+/*______Hrozby_________*/
+
+.img1{
+    position: absolute;
+    width: 600px;
+    height: 450px;
+    opacity: 0.9;
+    padding-left: 60%;
+}
+
+.img2{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    opacity: 0.9;
+    padding-left: 60%;
+}
+
+.img3{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    filter: contrast(140%);
+    padding-left: 12%;
+}
+
+.img4{
+    position: absolute;
+    width: 600px;
+    height: auto;
+    padding-left: 12%;
+}
